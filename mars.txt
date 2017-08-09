@@ -1,4 +1,5 @@
 Fact about mars
 
 Mars' soil is red b/c of iron oxide.
-Actually it's blue
+
+fixed
